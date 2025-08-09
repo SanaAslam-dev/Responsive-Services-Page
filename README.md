@@ -40,8 +40,9 @@ The layout adapts to:
 
 ## 🚀 How to Run
 1. Download or clone this repository.
-     
-3. Open the `index.html` file in your browser.
+     https://github.com/SanaAslam-dev/Responsive-Services-Page
+   
+2. Open the `index.html` file in your browser.
 
 
 
